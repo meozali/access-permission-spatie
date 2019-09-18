@@ -1,0 +1,1 @@
+<a href='{{url("verify/email/user")}}'>Click Me</a>
